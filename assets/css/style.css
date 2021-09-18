@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* Added Header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -75,6 +75,7 @@ p {
     margin-left: 20px;
 }
 
+/* Changed 3 Benefit classes to one Benefit and did the same for benefit h3 and benefit img */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -85,7 +86,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/* Changed 3 Benefit classes to one Benefit and did the same for benefit h3 and benefit img */
+
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
@@ -101,7 +102,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Consolidated services into 3 instead of 9*/
 .services {
     margin-bottom: 20px;
     padding: 50px;
@@ -119,7 +120,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*Added Footer*/
 footer {
     padding: 30px;
     clear: both;
