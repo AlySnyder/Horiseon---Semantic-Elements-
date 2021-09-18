@@ -1,8 +1,8 @@
 # HTML CSS Git Challenge: Code Refactor
 
-<header>
+
 I will be adding semantic tags and attributes to the Horiseon webpage to make it easier for other developers and readers to understand and meet accessibility standards.
-<header>
+
 
 ## Changes I made to index.html
 
@@ -19,10 +19,10 @@ I will be adding semantic tags and attributes to the Horiseon webpage to make it
 
 
 ## Link to my code on Github
-[Link to Github](https://github.com/AlySnyder/Horiseon---Semantic-Elements-/)
+[Link to Github](https://github.com/AlySnyder/UM-Challenge1)
 
 ## Link to my webpage on Github pages
-[Link to Site on Github Pages]()
+[Link to Site on Github Pages](https://alysnyder.github.io/UM-Challenge1/)
 
 
 
