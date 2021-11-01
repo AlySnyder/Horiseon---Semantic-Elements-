@@ -19,10 +19,10 @@ I will be adding semantic tags and attributes to the Horiseon webpage to make it
 
 
 ## Link to my code on Github
-[Link to Github](https://github.com/AlySnyder/UM-Challenge1)
+[Link to Github](https://github.com/AlySnyder/css-code-refactor)
 
 ## Link to my webpage on Github pages
-[Link to Site on Github Pages](https://alysnyder.github.io/UM-Challenge1/)
+[Link to Site on Github Pages](https://alysnyder.github.io/css-code-refactor/)
 
 
 
